@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<manifest>
+
+<remote revision="los-15.1" fetch="https://github.com/" name="github"/>
+
+<project name="Albe96XDA/android_device_samsung_dreamlte" remote="github" path="device/samsung/dreamlte"/>
+
+<project name="exynos-linux-stable/android_kernel_samsung_dreamlte" remote="github" path="kernel/samsung/dreamlte"/>
+
+</manifest>
