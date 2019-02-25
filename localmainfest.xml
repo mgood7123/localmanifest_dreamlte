@@ -6,6 +6,10 @@
 
 <project name="Albe96XDA/android_device_samsung_dreamlte" remote="github" path="device/samsung/dreamlte"/>
 
+<project name="Albe96XDA/android_device_samsung_universal8895-common" remote="github" path="common/samsung/dreamlte"/>
+
 <project name="exynos-linux-stable/dreamlte" remote="github" path="kernel/samsung/dreamlte"/>
+  
+<project name="BadGuy552/proprietary_android_vendor_dream-common" remote="github" path="vendor/samsung/dreamlte"/>
 
 </manifest>
