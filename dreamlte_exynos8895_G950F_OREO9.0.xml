@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+
+<remote revision="master" fetch="https://github.com/" name="S8github"/>
+
+<project path="device/samsung/dreamlte" name="BadGuy552/android_device_samsung_dream-common" remote="S8github" revision="master"/>
+
+<project path="common/samsung/dreamlte" name="travismills82/android_device_samsung_universal8895-common" remote="S8github" revision="lineage-16.0"/>
+
+<project path="kernel/samsung/dreamlte" name="exynos-linux-stable/dreamlte" remote="S8github" revision="tw90-android"/>
+  
+<project path="vendor/samsung/dreamlte" name="BadGuy552/proprietary_android_vendor_dream-common" remote="S8github" revision="master"/>
+
+</manifest>
