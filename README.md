@@ -19,13 +19,13 @@ repo sync
 
 9.0 (Pie)
 
-https://github.com/mgood7123/localmanifest_dreamlte/blob/patch-1/dreamlte_exynos8895_G950F_OREO9.0.xml
+https://github.com/mgood7123/localmanifest_dreamlte/blob/patch-1/dreamlte_exynos8895_G950F_PIE9.0.xml
 
-(raw https://github.com/mgood7123/localmanifest_dreamlte/raw/patch-1/dreamlte_exynos8895_G950F_OREO9.0.xml )
+(raw https://github.com/mgood7123/localmanifest_dreamlte/raw/patch-1/dreamlte_exynos8895_G950F_PIE9.0.xml )
 
 
 ```
 mkdir -p .repo/local_manifest/
-curl https://github.com/mgood7123/localmanifest_dreamlte/raw/patch-1/dreamlte_exynos8895_G950F_OREO9.0.xml -o .repo/local_manifest/dreamlte_exynos8895_G950F_OREO9.0.xml
+curl https://github.com/mgood7123/localmanifest_dreamlte/raw/patch-1/dreamlte_exynos8895_G950F_PIE9.0.xml -o .repo/local_manifest/dreamlte_exynos8895_G950F_PIE9.0.xml
 repo sync
 ```
