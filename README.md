@@ -6,6 +6,6 @@ place https://github.com/mgood7123/localmanifest_dreamlte/blob/patch-1/localmain
 
 ```
 mkdir -p .repo/local_manifest/
-curl https://github.com/mgood7123/localmanifest_dreamlte/raw/patch-1/localmainfest.xml > .repo/local_manifest/dreamlte.xml
+curl https://github.com/mgood7123/localmanifest_dreamlte/raw/patch-1/localmainfest.xml -o .repo/local_manifest/samsung_s8_exynox8895.xml
 repo sync
 ```
