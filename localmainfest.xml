@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
--<manifest>
+<manifest>
 
 <remote revision="los-15.1" fetch="https://github.com/" name="github"/>
 
-<project name="Albe96XDA/android_device_samsung_dreamlte" remote="github" path="device/samsung/dreamlte"/>
+<project path="device/samsung/dreamlte" name="Albe96XDA/android_device_samsung_dreamlte" remote="github"/>
 
-<project name="Albe96XDA/android_device_samsung_universal8895-common" remote="github" path="common/samsung/dreamlte"/>
+<project path="common/samsung/dreamlte" name="Albe96XDA/android_device_samsung_universal8895-common" remote="github"/>
 
-<project name="exynos-linux-stable/dreamlte" remote="github" path="kernel/samsung/dreamlte"/>
+<project path="kernel/samsung/dreamlte" name="exynos-linux-stable/dreamlte" remote="github" path="kernel/samsung/dreamlte"/>
   
-<project name="BadGuy552/proprietary_android_vendor_dream-common" remote="github" path="vendor/samsung/dreamlte"/>
+<project path="vendor/samsung/dreamlte" name="BadGuy552/proprietary_android_vendor_dream-common" remote="github"/>
 
 </manifest>
